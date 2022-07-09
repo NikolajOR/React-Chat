@@ -1,3 +1,12 @@
+# TODO
+
+https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md
+
+- [ ] Stuktur(basis)
+- [ ] (Test)
+- [ ] Git
+- [ ] Database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
