@@ -6,6 +6,8 @@ https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-Ap
 
 ## Start projekt
 
+Husk at køre: npm i
+
 ### React server
 
 npm run start
